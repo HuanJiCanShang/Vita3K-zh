@@ -2,7 +2,9 @@
 
 ![Github](https://img.shields.io/github/downloads/HuanJiCanShang/Vita3K-zh/total)
 
-Vita3K-zh是基于[Vita3K](https://github.com/Vita3K/Vita3K)的中文分支，补充一些对话框以及选项的`lang`字符串。这个分支并不被开发人员认可，仅供于浏览和测试，不推荐提交兼容性报告，此分支并不是官方版本，如要提交兼容性报告请使用[Vita3K](https://vita3k.org)的官方版本。
+Vita3K-zh是基于[Vita3K](https://github.com/Vita3K/Vita3K)的中文分支，补充一些对话框以及选项的`lang`字符串。这个分支并不被开发人员认可，仅供于浏览和测试，不推荐提交兼容性报告，此分支并不是官方版本，如要提交兼容性报告请使用Vita3K的官方版本。
+- https://vita3k.org
+- https://github.com/Vita3K/Vita3K/releases
 
 ## 与官方版本的区别
 \ | 更改内容
