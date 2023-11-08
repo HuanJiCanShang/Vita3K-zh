@@ -11,7 +11,7 @@ Vita3K-zh是基于[Vita3K](https://github.com/Vita3K/Vita3K)的中文分支，�
 应用程序菜单 | Live Area选项
 保存/载入存档 | Back选项（实际PSVita只有图标，不存在文字）
 内容管理 | Back选项（实际PSVita只有图标，不存在文字）
-GUI | 使用微软雅黑字体（仅Windows）并以cn0.pvf为主要显示
+GUI | 使用[LXGW WenKai / 霞鹜文楷字体](https://github.com/lxgw/LxgwWenKai)（已在编译时包含LICENSE，在未安装字体固件显示该字体），并以cn0.pvf为主要显示
 初始设置 | 补充翻译
 Live Area | Live Area应用程序页面选项（除Esc）
 主菜单栏 | 在帮助选项中添加了新的选项
@@ -20,4 +20,4 @@ Live Area | Live Area应用程序页面选项（除Esc）
 奖杯收集 | Back选项（实际PSVita只有图标，不存在文字）
 Vita3K更新 | 使用gh-proxy代理加速
 欢迎对话框 | 添加快速指南导航
-更新脚本 | 替换中文显示、并使用gh-proxy代理加速
+更新脚本 | 文本替换为中文显示，并使用gh-proxy代理加速
